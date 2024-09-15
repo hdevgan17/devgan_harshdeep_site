@@ -17,8 +17,8 @@ Follow the steps below to set up and run the application in a Docker container.
 If you're working with this code locally, clone the repository or download the project files.
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/hdevgan17/devgan_harshdeep_site.git
+cd devgan_harshdeep_site
 ```
 
 ### 2. Build the Docker Image
@@ -53,7 +53,7 @@ Alternatively, you can list and stop the container using:
 
 ```bash
 docker ps    # Lists running containers
-docker stop <container-id>   # Replace <container-id> with the container ID from the previous command
+docker stop devgan_harshdeep_coding_assignment11   
 ```
 
 ## Project Structure
